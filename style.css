@@ -3,28 +3,29 @@
     background-color: #f44336;
 }
 .topnav a {
-    float: left;
     display: block;
-    color: whitesmoke;
+    float: left;
     text-align: center;
     padding:20px 30px;
     text-decoration: none;
+    color: whitesmoke;
+
 }
 .topnav a:hover {
+	background-color: whitesmoke;
+	color: #f44336;
+}
+.topnav .active {
     background-color:whitesmoke;
     color: #f44336;
 }
-.active {
-    background-color: whitesmoke;
-    color: #f44336;
-}
-
 
 body {
+    background-color: whitesmoke;
     margin:0;
 }
 
-.header {
+.header1 {
     background-color: #f44336;
     padding:5px;
     text-align: center;
