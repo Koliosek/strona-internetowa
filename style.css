@@ -1,6 +1,13 @@
+html{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
 .topnav {
     overflow:hidden;
-    background-color: #f44336;
+    background-color: #9fe431;
 }
 .topnav a {
     display: block;
@@ -13,20 +20,19 @@
 }
 .topnav a:hover {
 	background-color: whitesmoke;
-	color: #f44336;
+	color: #9fe431;
 }
 .topnav .active {
     background-color:whitesmoke;
-    color: #f44336;
+    color: #9fe431;
 }
 
 body {
-    background-color: whitesmoke;
-    margin:0;
+    margin: 0;
 }
 
 .header1 {
-    background-color: #f44336;
+    background-color: #9fe431;
     padding:5px;
     text-align: center;
     color: whitesmoke;
