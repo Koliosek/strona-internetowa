@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+@keyframes rainbow {
+    0% {color: black;}
+    10% {color: red;}
+    20% {color: orange;}
+    30% {color: yellow;}
+    40% {color: yellowgreen;}
+    50% {color: green;}
+    60% {color: aquamarine;}
+    70% {color: blue;}
+    80% {color: orchid;}
+    90% {color: indigo;}
+    100% {color: black;}
+
+}
+div {
+    animation-delay: 5s;
+    animation-name: "rainbow";
+    animation-duration: 10s;
+    padding: 20px;
+    animation-iteration-count: infinite;
+    font-size: 126px;
+}

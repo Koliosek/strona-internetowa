@@ -1,7 +1,4 @@
 # strona-internetowa
-teraz jest w internetach
-https://www.w3schools.com/css/tryit.asp?filename=trycss_dropdown_navbar2
-
 Soplówka jeżowata - To bardzo ciekawy grzyb, który w Polsce jest gatunkiem wymierającym, natomiast w Japonii i Chinach jest lubianym i uprawianym grzybem spożywczym (ponoć smakuje jak owoce morza).​
 
 Dzieżka pomarańczowa - Bardzo urokliwy grzyb o nieregularnej strukturze, czasem upodabniający się do kurki, czasem do rozgotowanego makaronu typu muszelki. Jadalny, pozbawiony smaku, ciekawy jako dekoracja talerza.​
